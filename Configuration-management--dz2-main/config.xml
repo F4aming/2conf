@@ -1,0 +1,9 @@
+<config>
+    <visualization_tool>C:\Users\maxko\Desktop\Configuration-management--dz2-main\plantuml-mit-1.2024.7.jar</visualization_tool>
+    <repository_path>C:\gittest</repository_path>
+    <output_image_path>C:\Users\maxko\Desktop\Configuration-management--dz2-main</output_image_path>
+    <commit_dates>2024-11-05 14:32:10</commit_dates>
+    <tag_names>
+        <tag>v1.0</tag>
+    </tag_names>
+</config>
